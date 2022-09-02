@@ -1,4 +1,4 @@
-﻿internal class Program
+﻿internal class task_2
 {
     private static void Main(string[] args)
     {
