@@ -3,11 +3,11 @@
     private static void Main(string[] args)
     {
         Console.Write("Введите число: ");
-        int num = Convert.ToInt32(Console.ReadLine());
+        int number_1 = Convert.ToInt32(Console.ReadLine());
         int number_2 = 1;
         string Result = "";
 
-        if (number_1 == 0 || number_1 == 1)
+        if (number_1 == 0 || number_1 == 1) 
         {
             Result = "  нет четных чисел в промежутке";
         }
